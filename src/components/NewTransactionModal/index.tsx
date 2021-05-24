@@ -26,7 +26,6 @@ export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionMo
         />
         <input
           placeholder="Categoria"
-          type="number"
         />
         <button type="submit">Cadastrar</button>
       </Container>
